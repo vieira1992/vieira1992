@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-
+background-color: black;
  <div>
    <a href="https://github.com/vieira1992">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vieira1992&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
